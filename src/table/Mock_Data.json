@@ -1,0 +1,27 @@
+[
+    {"id":1,"Query Name": "Aubree","keys": "aub, aubre","Campaign Name": "","Campaign" : ["Active(1)", "Draft(0)", "Upcomimg(0)"]},
+    
+    {"id":2,"Query Name": "Aubrey","keys": "aub, aubre","Campaign Name": "Merchandising","Campaign" : ["Active(0)", "Draft(0)", "Upcomimg(1)"]},
+    
+    {"id":3,"Query Name": "Aubri","keys": "aub, aubre","Campaign Name": "redirects","Campaign" : ["Active(1)", "Draft(0)", "Upcomimg(0)"]},
+    
+    {"id":4,"Query Name": "Aubriana","keys": "aub, aubre","Campaign Name": "banner","Campaign" : ["Active(0)", "Draft(1)", "Upcomimg(0)"]},
+    
+    {"id":5,"Query Name": "Aubrianna","keys": "aub, aubre","Campaign Name": "landing page","Campaign" : ["Active(0)", "Draft(0)", "Upcomimg(1)"]},
+    
+    {"id":6,"Query Name": "Aubrianne","keys": "aub, aubre","Campaign Name": "","Campaign" : ["Active(1)", "Draft(0)", "Upcomimg(0)"]},
+    
+    {"id":7,"Query Name": "Aubrie","keys": "aub, aubre","Campaign Name": "","Campaign" : ["Active(0)", "Draft(1)", "Upcomimg(0)"]},
+    
+    {"id":8,"Query Name": "Aubriella","keys": "aub, aubre","Campaign Name": "landing page","Campaign" : ["Active(1)", "Draft(0)", "Upcomimg(0)"]},
+    
+    {"id":9,"Query Name": "Aubrielle","keys": "aub, aubre","Campaign Name": "redirects","Campaign" : ["Active(0)", "Draft(0)", "Upcomimg(1)"]},
+    
+    {"id":10,"Query Name": "Aubrii","keys": "aub, aubre","Campaign Name": "","Campaign" : ["Active(0)", "Draft(1)", "Upcomimg(0)"]},
+    
+    {"id":11,"Query Name": "Aubriana","keys": "aub, aubre","Campaign Name": "Merchandising","Campaign" : ["Active(1)", "Draft(0)", "Upcomimg(0)"]},
+
+    {"id":12,"Query Name": "Aubriana","keys": "aub, aubre","Campaign Name": "Merchandising","Campaign" : ["Active(1)", "Draft(0)", "Upcomimg(0)"]},
+
+    {"id":13,"Query Name": "Aubriana","keys": "aub, aubre","Campaign Name": "Merchandising","Campaign" : ["Active(1)", "Draft(0)", "Upcomimg(0)"]}
+]

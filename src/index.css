@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+    body{
+        font-family: 'Nunito', sans-serif;
+    }
+    li{
+        @apply uppercase text-xs block text-slate-800 font-bold tracking-wider p-2;
+    }
+}
+@layer components{
+    .blue{
+        color: #5582d6;
+    }
+    .blue-bg{
+        background-color: #5582d6;
+    }
+}
